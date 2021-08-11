@@ -1,1 +1,1 @@
-Mastermind game. The user can choose a level and play against the computer :)
+Mastermind game. The user can select the level of difficulty and play against the computer :)
